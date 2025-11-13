@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Silva",
+    "foto": "https://picsum.photos/seed/1/200/200",
+    "cargo": "Especialista de RH",
+    "resumo": "Especialista de RH com experiência em AWS, React, Tailwind",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "AWS",
+      "React",
+      "Tailwind",
+      "Docker",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 28",
+        "cargo": "Especialista de RH",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Pedro Almeida",
+    "foto": "https://picsum.photos/seed/2/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Product Manager com experiência em AWS, TypeScript, SQL",
+    "localizacao": "Curitiba/PR",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "AWS",
+      "TypeScript",
+      "SQL",
+      "Machine Learning",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 18",
+        "cargo": "Product Manager",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Isabela Martins",
+    "foto": "https://picsum.photos/seed/3/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em Python, Node.js, SQL",
+    "localizacao": "Salvador/BA",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Python",
+      "Node.js",
+      "SQL",
+      "TypeScript",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Joao Oliveira",
+    "foto": "https://picsum.photos/seed/4/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Product Manager com experiência em Next.js, React, Python",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "React",
+      "Python",
+      "Machine Learning",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 14",
+        "cargo": "Product Manager",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Felipe Gomes",
+    "foto": "https://picsum.photos/seed/5/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Product Manager com experiência em Docker, Kubernetes, React",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "React",
+      "Tailwind",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 19",
+        "cargo": "Product Manager",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Tiago Santos",
+    "foto": "https://picsum.photos/seed/6/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em Node.js, AWS, SQL",
+    "localizacao": "Salvador/BA",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "AWS",
+      "SQL",
+      "Next.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 14",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Isabela Pereira",
+    "foto": "https://picsum.photos/seed/7/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em React, Python, GraphQL",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "React",
+      "Python",
+      "GraphQL",
+      "SQL",
+      "Testing"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 6",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Olivia Oliveira",
+    "foto": "https://picsum.photos/seed/8/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em Next.js, TypeScript, Figma",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "TypeScript",
+      "Figma",
+      "Tailwind",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Diego Rodrigues",
+    "foto": "https://picsum.photos/seed/9/200/200",
+    "cargo": "Designer UI/UX",
+    "resumo": "Designer UI/UX com experiência em React, GraphQL, Machine Learning",
+    "localizacao": "Curitiba/PR",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "React",
+      "GraphQL",
+      "Machine Learning",
+      "Node.js",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Designer UI/UX",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Bruno Martins",
+    "foto": "https://picsum.photos/seed/10/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em SQL, Machine Learning, CSS",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Machine Learning",
+      "CSS",
+      "Figma",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 5",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Lucas Rodrigues",
+    "foto": "https://picsum.photos/seed/11/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em Figma, Next.js, GraphQL",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Next.js",
+      "GraphQL",
+      "Machine Learning",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 14",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Diego Gomes",
+    "foto": "https://picsum.photos/seed/12/200/200",
+    "cargo": "Cientista de Dados",
+    "resumo": "Cientista de Dados com experiência em SQL, Testing, Kubernetes",
+    "localizacao": "São Paulo/SP",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Testing",
+      "Kubernetes",
+      "Python",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 26",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Bruno Martins",
+    "foto": "https://picsum.photos/seed/13/200/200",
+    "cargo": "Especialista de RH",
+    "resumo": "Especialista de RH com experiência em Node.js, GraphQL, Testing",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "GraphQL",
+      "Testing",
+      "Python",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Especialista de RH",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Lucas Santos",
+    "foto": "https://picsum.photos/seed/14/200/200",
+    "cargo": "DevOps Engineer",
+    "resumo": "DevOps Engineer com experiência em Kubernetes, React, AWS",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "React",
+      "AWS",
+      "Next.js",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Isabela Almeida",
+    "foto": "https://picsum.photos/seed/15/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em Python, AWS, TypeScript",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "TypeScript",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 20",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Rafael Gomes",
+    "foto": "https://picsum.photos/seed/16/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em GraphQL, React, Next.js",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "GraphQL",
+      "React",
+      "Next.js",
+      "Docker",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 18",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Mariana Oliveira",
+    "foto": "https://picsum.photos/seed/17/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em Next.js, GraphQL, Python",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "GraphQL",
+      "Python",
+      "Machine Learning",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Ana Costa",
+    "foto": "https://picsum.photos/seed/18/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em SQL, Figma, React",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Figma",
+      "React",
+      "Testing",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 26",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Sofia Santos",
+    "foto": "https://picsum.photos/seed/19/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Product Manager com experiência em Testing, CSS, Machine Learning",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Testing",
+      "CSS",
+      "Machine Learning",
+      "Python",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 12",
+        "cargo": "Product Manager",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Ana Souza",
+    "foto": "https://picsum.photos/seed/20/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em SQL, Docker, CSS",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Docker",
+      "CSS",
+      "TypeScript",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 19",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Hugo Oliveira",
+    "foto": "https://picsum.photos/seed/21/200/200",
+    "cargo": "DevOps Engineer",
+    "resumo": "DevOps Engineer com experiência em TypeScript, Testing, Python",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Testing",
+      "Python",
+      "Node.js",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 28",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Mariana Santos",
+    "foto": "https://picsum.photos/seed/22/200/200",
+    "cargo": "DevOps Engineer",
+    "resumo": "DevOps Engineer com experiência em Tailwind, AWS, Kubernetes",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 26",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Eduarda Silva",
+    "foto": "https://picsum.photos/seed/23/200/200",
+    "cargo": "Especialista de RH",
+    "resumo": "Especialista de RH com experiência em Next.js, React, AWS",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "React",
+      "AWS",
+      "Node.js",
+      "Testing"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 18",
+        "cargo": "Especialista de RH",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Eduarda Costa",
+    "foto": "https://picsum.photos/seed/24/200/200",
+    "cargo": "Designer UI/UX",
+    "resumo": "Designer UI/UX com experiência em Kubernetes, Next.js, Python",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Next.js",
+      "Python",
+      "React",
+      "GraphQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 6",
+        "cargo": "Designer UI/UX",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Diego Oliveira",
+    "foto": "https://picsum.photos/seed/25/200/200",
+    "cargo": "Cientista de Dados",
+    "resumo": "Cientista de Dados com experiência em Testing, GraphQL, Node.js",
+    "localizacao": "São Paulo/SP",
+    "area": "Data Science",
+    "habilidadesTecnicas": [
+      "Testing",
+      "GraphQL",
+      "Node.js",
+      "React",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 24",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Olivia Almeida",
+    "foto": "https://picsum.photos/seed/26/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em GraphQL, Figma, Testing",
+    "localizacao": "Curitiba/PR",
+    "area": "Data Science",
+    "habilidadesTecnicas": [
+      "GraphQL",
+      "Figma",
+      "Testing",
+      "Next.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 24",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Nicolas Silva",
+    "foto": "https://picsum.photos/seed/27/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em React, SQL, CSS",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "React",
+      "SQL",
+      "CSS",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 29",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Eduarda Santos",
+    "foto": "https://picsum.photos/seed/28/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em Kubernetes, Testing, SQL",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Testing",
+      "SQL",
+      "TypeScript",
+      "GraphQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 20",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Bruno Santos",
+    "foto": "https://picsum.photos/seed/29/200/200",
+    "cargo": "Designer UI/UX",
+    "resumo": "Designer UI/UX com experiência em TypeScript, Next.js, Figma",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Next.js",
+      "Figma",
+      "SQL",
+      "Testing"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 26",
+        "cargo": "Designer UI/UX",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Hugo Santos",
+    "foto": "https://picsum.photos/seed/30/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em Figma, Node.js, Tailwind",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Node.js",
+      "Tailwind",
+      "Python",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 15",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Tiago Santos",
+    "foto": "https://picsum.photos/seed/31/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Product Manager com experiência em Node.js, Machine Learning, Figma",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Data Science",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Machine Learning",
+      "Figma",
+      "AWS",
+      "Testing"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 28",
+        "cargo": "Product Manager",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Pedro Gomes",
+    "foto": "https://picsum.photos/seed/32/200/200",
+    "cargo": "Especialista de RH",
+    "resumo": "Especialista de RH com experiência em Testing, Docker, React",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Testing",
+      "Docker",
+      "React",
+      "GraphQL",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 30",
+        "cargo": "Especialista de RH",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Felipe Rodrigues",
+    "foto": "https://picsum.photos/seed/33/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em Machine Learning, GraphQL, Figma",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "GraphQL",
+      "Figma",
+      "Node.js",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Joao Rodrigues",
+    "foto": "https://picsum.photos/seed/34/200/200",
+    "cargo": "Cientista de Dados",
+    "resumo": "Cientista de Dados com experiência em Machine Learning, TypeScript, Docker",
+    "localizacao": "São Paulo/SP",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "TypeScript",
+      "Docker",
+      "SQL",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 14",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Hugo Oliveira",
+    "foto": "https://picsum.photos/seed/35/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em Machine Learning, Tailwind, Kubernetes",
+    "localizacao": "Salvador/BA",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Tailwind",
+      "Kubernetes",
+      "Docker",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 19",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Gabriela Martins",
+    "foto": "https://picsum.photos/seed/36/200/200",
+    "cargo": "DevOps Engineer",
+    "resumo": "DevOps Engineer com experiência em Node.js, Next.js, Testing",
+    "localizacao": "São Paulo/SP",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Next.js",
+      "Testing",
+      "Tailwind",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 10",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Olivia Rodrigues",
+    "foto": "https://picsum.photos/seed/37/200/200",
+    "cargo": "Especialista de RH",
+    "resumo": "Especialista de RH com experiência em Docker, Tailwind, SQL",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Tailwind",
+      "SQL",
+      "Kubernetes",
+      "GraphQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 19",
+        "cargo": "Especialista de RH",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Tiago Silva",
+    "foto": "https://picsum.photos/seed/38/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em Testing, TypeScript, Node.js",
+    "localizacao": "São Paulo/SP",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "Testing",
+      "TypeScript",
+      "Node.js",
+      "Figma",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 15",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Tiago Rodrigues",
+    "foto": "https://picsum.photos/seed/39/200/200",
+    "cargo": "Especialista de RH",
+    "resumo": "Especialista de RH com experiência em Docker, GraphQL, Machine Learning",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Docker",
+      "GraphQL",
+      "Machine Learning",
+      "Kubernetes",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 28",
+        "cargo": "Especialista de RH",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Pedro Oliveira",
+    "foto": "https://picsum.photos/seed/40/200/200",
+    "cargo": "DevOps Engineer",
+    "resumo": "DevOps Engineer com experiência em Machine Learning, Node.js, Figma",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Node.js",
+      "Figma",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 10",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Pedro Martins",
+    "foto": "https://picsum.photos/seed/41/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em TypeScript, Tailwind, Docker",
+    "localizacao": "São Paulo/SP",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Tailwind",
+      "Docker",
+      "CSS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 19",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Gabriela Martins",
+    "foto": "https://picsum.photos/seed/42/200/200",
+    "cargo": "Designer UI/UX",
+    "resumo": "Designer UI/UX com experiência em SQL, Testing, GraphQL",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Testing",
+      "GraphQL",
+      "CSS",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 20",
+        "cargo": "Designer UI/UX",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Eduarda Souza",
+    "foto": "https://picsum.photos/seed/43/200/200",
+    "cargo": "Especialista de RH",
+    "resumo": "Especialista de RH com experiência em Kubernetes, Machine Learning, Node.js",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Machine Learning",
+      "Node.js",
+      "Python",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 4",
+        "cargo": "Especialista de RH",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Ana Gomes",
+    "foto": "https://picsum.photos/seed/44/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em Node.js, AWS, React",
+    "localizacao": "Curitiba/PR",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "AWS",
+      "React",
+      "GraphQL",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 26",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Nicolas Martins",
+    "foto": "https://picsum.photos/seed/45/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em Kubernetes, GraphQL, Next.js",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "GraphQL",
+      "Next.js",
+      "TypeScript",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 18",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Felipe Souza",
+    "foto": "https://picsum.photos/seed/46/200/200",
+    "cargo": "DevOps Engineer",
+    "resumo": "DevOps Engineer com experiência em SQL, Testing, Kubernetes",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Testing",
+      "Kubernetes",
+      "Machine Learning",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Karla Gomes",
+    "foto": "https://picsum.photos/seed/47/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Product Manager com experiência em Kubernetes, Python, SQL",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Python",
+      "SQL",
+      "Tailwind",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 23",
+        "cargo": "Product Manager",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Camila Costa",
+    "foto": "https://picsum.photos/seed/48/200/200",
+    "cargo": "Designer UI/UX",
+    "resumo": "Designer UI/UX com experiência em AWS, Tailwind, Docker",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Tailwind",
+      "Docker",
+      "Figma",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 26",
+        "cargo": "Designer UI/UX",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Hugo Rodrigues",
+    "foto": "https://picsum.photos/seed/49/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em Python, Tailwind, CSS",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Python",
+      "Tailwind",
+      "CSS",
+      "Machine Learning",
+      "GraphQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 16",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Olivia Souza",
+    "foto": "https://picsum.photos/seed/50/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em Tailwind, AWS, CSS",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "AWS",
+      "CSS",
+      "TypeScript",
+      "Testing"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 27",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Ana Oliveira",
+    "foto": "https://picsum.photos/seed/51/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Product Manager com experiência em TypeScript, Docker, React",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Data Science",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Docker",
+      "React",
+      "AWS",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 21",
+        "cargo": "Product Manager",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Camila Santos",
+    "foto": "https://picsum.photos/seed/52/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em React, Testing, CSS",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "React",
+      "Testing",
+      "CSS",
+      "Figma",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 17",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Diego Santos",
+    "foto": "https://picsum.photos/seed/53/200/200",
+    "cargo": "Especialista de RH",
+    "resumo": "Especialista de RH com experiência em Machine Learning, Tailwind, CSS",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Data Science",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Tailwind",
+      "CSS",
+      "GraphQL",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Especialista de RH",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Isabela Martins",
+    "foto": "https://picsum.photos/seed/54/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Engenheiro de Software com experiência em AWS, Kubernetes, Figma",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Kubernetes",
+      "Figma",
+      "Machine Learning",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 13",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Lucas Gomes",
+    "foto": "https://picsum.photos/seed/55/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em Figma, Next.js, Python",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Next.js",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Gabriela Santos",
+    "foto": "https://picsum.photos/seed/56/200/200",
+    "cargo": "Designer UI/UX",
+    "resumo": "Designer UI/UX com experiência em Tailwind, React, SQL",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "React",
+      "SQL",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 19",
+        "cargo": "Designer UI/UX",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Hugo Costa",
+    "foto": "https://picsum.photos/seed/57/200/200",
+    "cargo": "Cientista de Dados",
+    "resumo": "Cientista de Dados com experiência em Tailwind, TypeScript, Node.js",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "TypeScript",
+      "Node.js",
+      "Docker",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 24",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Sofia Pereira",
+    "foto": "https://picsum.photos/seed/58/200/200",
+    "cargo": "Analista de Marketing",
+    "resumo": "Analista de Marketing com experiência em GraphQL, Figma, Docker",
+    "localizacao": "Curitiba/PR",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "GraphQL",
+      "Figma",
+      "Docker",
+      "Python",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 13",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Quenia Souza",
+    "foto": "https://picsum.photos/seed/59/200/200",
+    "cargo": "Cientista de Dados",
+    "resumo": "Cientista de Dados com experiência em SQL, React, Kubernetes",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "React",
+      "Kubernetes",
+      "Machine Learning",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 6",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Bruno Gomes",
+    "foto": "https://picsum.photos/seed/60/200/200",
+    "cargo": "Cientista de Dados",
+    "resumo": "Cientista de Dados com experiência em Node.js, Python, Next.js",
+    "localizacao": "Porto Alegre/RS",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Python",
+      "Next.js",
+      "Machine Learning",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 21",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por projetos relevantes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ]
+  }
+]

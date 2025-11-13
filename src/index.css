@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --bg:#0f172a;
+  --card:#0b1220;
+  --muted:#94a3b8;
+  --accent:#06b6d4;
+}
+[data-theme="light"]{
+  --bg:#f8fafc;
+  --card:#ffffff;
+  --muted:#64748b;
+  --accent:#0ea5a4;
+}
+body{
+  background:var(--bg);
+  color:rgba(255,255,255,0.95);
+  transition:background 0.3s,color 0.3s;
+}
+[data-theme="light"] body{
+  color:rgba(0,0,0,0.85);
+}
+
+select {
+  background-color: var(--card);
+  color: inherit;
+  border: 1px solid var(--muted);
+}
+
+select option {
+  background-color: var(--card);
+  color: inherit;
+}
