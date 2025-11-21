@@ -5,11 +5,16 @@ Uma plataforma web moderna e intuitiva para descobrir e conectar com profissiona
 ## Pages
 https://rhariel.github.io/neowork/
 
+
 ## Video
+
 https://youtu.be/bISvzFYipEU?si=7qK4KtLJYrSO5B3D
+
+
 ## Sobre o Projeto
 
 **Neowork** é uma Single Page Application (SPA) desenvolvida em React que funciona como um diretório profissional interativo. O aplicativo permite buscar, filtrar e visualizar perfis de profissionais com seus dados de experiência, formação e habilidades técnicas.
+
 
 ### Funcionalidades Principais
 
@@ -20,6 +25,7 @@ https://youtu.be/bISvzFYipEU?si=7qK4KtLJYrSO5B3D
 - 🪟 **Modal Detalhado**: Visualize informações completas do profissional em um modal
 - 💬 **Ações Rápidas**: Botões para recomendar profissional e enviar mensagens
 
+
 ### Stack Tecnológico
 
 - **Frontend**: React 18.2.0
@@ -27,6 +33,7 @@ https://youtu.be/bISvzFYipEU?si=7qK4KtLJYrSO5B3D
 - **Build Tool**: Vite 5.0.0
 - **CSS Processing**: PostCSS + Autoprefixer
 - **Data**: JSON estático com 50+ perfis profissionais
+
 
 ## Instalação
 
@@ -56,6 +63,7 @@ https://youtu.be/bISvzFYipEU?si=7qK4KtLJYrSO5B3D
    npm run preview
    ```
 
+
 ## Estrutura do Projeto
 
 ```
@@ -73,6 +81,7 @@ neowork/
 └── package.json          # Dependências do projeto
 ```
 
+
 ## Componentes Principais
 
 ### App.jsx
@@ -81,20 +90,24 @@ neowork/
 - Controla abertura e fechamento do modal
 - Alterna entre temas claro e escuro
 
+
 ### Modal
 - Exibe informações detalhadas do profissional
 - Mostra experiências profissionais
 - Exibe formação acadêmica
 - Oferece opções de recomendação e mensagem
 
+
 ### Card
 - Apresenta preview do perfil profissional
 - Mostra habilidades técnicas em tags
 - Oferece interação para abrir modal completo
 
+
 ### Avatar
 - Componente reutilizável para imagens de perfil
 - Aplica efeitos de arredondamento e object-fit
+
 
 ## Dados
 
@@ -105,6 +118,7 @@ O arquivo `profiles.json` contém informações de profissionais como:
 - Habilidades técnicas e soft skills
 - Histórico de experiências
 - Formação acadêmica
+
 
 ## Autores
 
