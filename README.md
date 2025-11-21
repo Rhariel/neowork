@@ -5,6 +5,8 @@ Uma plataforma web moderna e intuitiva para descobrir e conectar com profissiona
 ## Pages
 https://rhariel.github.io/neowork/
 
+## Video
+https://youtu.be/bISvzFYipEU?si=7qK4KtLJYrSO5B3D
 ## Sobre o Projeto
 
 **Neowork** é uma Single Page Application (SPA) desenvolvida em React que funciona como um diretório profissional interativo. O aplicativo permite buscar, filtrar e visualizar perfis de profissionais com seus dados de experiência, formação e habilidades técnicas.
